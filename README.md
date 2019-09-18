@@ -4,7 +4,7 @@
 
 ## TOC
 
-- [ ] Stage 1: Hello, coffee!
+- [x] Stage 1: Hello, coffee!
 - [ ] Stage 2: Machines have needs
 - [ ] Stage 3: Enough coffee for everyone
 - [ ] Stage 4: Action!
