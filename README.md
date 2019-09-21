@@ -4,8 +4,8 @@
 
 ## TOC
 
-- [x] Stage 1: Hello, coffee!
-- [ ] Stage 2: Machines have needs
+- [x] [Stage 1: Hello, coffee!](src/stage_1/project.py)
+- [x] [Stage 2: Machines have needs](src/stage_2/project.py)
 - [ ] Stage 3: Enough coffee for everyone
 - [ ] Stage 4: Action!
 - [ ] Stage 5: On a coffee loop
