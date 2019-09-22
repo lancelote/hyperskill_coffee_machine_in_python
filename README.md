@@ -6,7 +6,7 @@
 
 - [x] [Stage 1: Hello, coffee!](src/stage_1/project.py)
 - [x] [Stage 2: Machines have needs](src/stage_2/project.py)
-- [ ] Stage 3: Enough coffee for everyone
+- [x] [Stage 3: Enough coffee for everyone](src/stage_2/project.py)
 - [ ] Stage 4: Action!
 - [ ] Stage 5: On a coffee loop
 - [ ] Stage 6: Processing coffee machine states
