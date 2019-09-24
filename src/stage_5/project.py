@@ -33,25 +33,23 @@ def select_flavor() -> int:
                      ' back - to main menu: ')
     if response == 'back':
         return 0
-    else:
-        return int(response)
+    return int(response)
 
 
 def is_enough(need_water=0, need_milk=0, need_beans=0):
     if water < need_water:
         print('Sorry, not enough water!\n')
         raise ResourceError
-    elif milk < need_milk:
+    if milk < need_milk:
         print('Sorry, not enough milk!\n')
         raise ResourceError
-    elif beans < need_beans:
+    if beans < need_beans:
         print('Sorry, not enough beans!\n')
         raise ResourceError
-    elif cups < 1:
+    if cups < 1:
         print('Sorry, not enough cups\n')
         raise ResourceError
-    else:
-        print('I have enough resources, making you a coffee!\n')
+    print('I have enough resources, making you a coffee!\n')
 
 
 def buy():

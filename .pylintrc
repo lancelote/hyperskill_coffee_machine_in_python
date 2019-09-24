@@ -1,0 +1,9 @@
+[MESSAGES CONTROL]
+disable=duplicate-code,
+ missing-docstring,
+ invalid-name,
+ global-statement
+
+[REPORTS]
+reports=no
+score=no
